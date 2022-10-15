@@ -1,4 +1,5 @@
-###Hi there 👋 and welcome to my github profile :)\n
+###Hi there 👋 
+and welcome to my github profile :)
 
 I'm a university student finishing his last year in Computer Science and Engineering.
 
