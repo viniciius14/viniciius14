@@ -1,9 +1,12 @@
-###Hi there 👋 
-and welcome to my github profile :)
+# Hi there 👋 and welcome to my github profile :)
 
-I'm a university student finishing his last year in Computer Science and Engineering.
+I'm a final-year university student studying Computer Science and Engineering.<br/>
+I enjoy programming and problem solving with a special interest in lower level languages.
+<br/><br/>
+### Currently I'm learning C++ and working on a Ray Tracer.
 
 
+<!--I especially enjoy programming in lower-level languages, as you'll see with my repositories -->
 
 <!--
 **viniciius14/viniciius14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
