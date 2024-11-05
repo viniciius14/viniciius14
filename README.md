@@ -1,6 +1,2 @@
-# Hi there 👋 and welcome to my github profile :)
-I'm a final-year university student majoring in Computer Science and Engineering.<br/>
-I enjoy programming a lot and I'm most interested in lower level languages.
-<br/>
-<br/>
-### Currently I'm learning C++ and working on a Ray Tracer.
+# Hi there 👋
+I'm a embedded systems engineer currently focusing on OS development. <br/> My most recent projects are [SnakeOS](https://github.com/viniciius14/Snake-OS) and [GeckOS](https://github.com/viniciius14/GeckOS) which I'm working on right now.
